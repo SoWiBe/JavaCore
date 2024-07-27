@@ -1,4 +1,4 @@
-package chapters.one;
+package chapters.two;
 
 /*
     Это простая программа на Java.
